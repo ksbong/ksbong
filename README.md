@@ -4,7 +4,9 @@
 ### Welcome to my Github profile ! 👋
 
 <br/>
-<br/>
+
+### 🔗 Links
+<a href="https://www.instagram.com/sanggnob/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
 
 ### 💻 Operating System
 <img src="https://img.shields.io/badge/Windows%2011-0078D4.svg?style=for-the-badge&logo=Windows-11&logoColor=white" />
@@ -24,8 +26,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
 
 <br />
-<br />
-<br />
+
+## 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksbong&show_icons=true&theme=radical)
 
