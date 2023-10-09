@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sangbong%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Sangbong%20Kim&fontSize=60)
 ### Welcome to my Github profile ! 👋
 
 <br/>
@@ -23,13 +23,12 @@
 <img src="https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
 
 <br />
 
 ## 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksbong&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksbong&show_icons=true&theme=transparent)
 
 
 <!--
