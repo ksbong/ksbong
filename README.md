@@ -1,7 +1,7 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Sangbong%20Kim&fontSize=60)
-### Welcome to my Github profile ! 👋
+### Hi I'm from Korea and I make apps ! 👋
 
 <br/>
 
