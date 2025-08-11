@@ -1,6 +1,4 @@
-<div align="right">
-  <a href="README.md">🇬🇧 English</a> | <a href="README.ko.md">🇰🇷 한국어</a>
-</div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Sangbong%20Kim&fontSize=60" alt="Sangbong Kim" />
