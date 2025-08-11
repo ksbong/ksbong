@@ -6,8 +6,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Sangbong%20Kim&fontSize=60" alt="Sangbong Kim" />
 </p>
 
-<h3 align="center">Hi, I'm an AI student & app developer from Korea! 👋</h3>
-
 - 🎓 **First-year** Artificial Intelligence major at **Hanyang University (ERICA)**.  
 - 🤖 Interested in **Natural Language Processing (NLP)** and **Quantum Computing (Qiskit)**.  
 - 📱 Experienced in mobile app development using **Flutter** & **React Native**.
