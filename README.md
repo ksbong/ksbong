@@ -5,7 +5,7 @@
 </p>
 
 - 🎓 **First-year** Artificial Intelligence major at **Hanyang University (ERICA)**.  
-- 🤖 Interested in **Natural Language Processing (NLP)** and **Quantum Computing (Qiskit)**.  
+- 🤖 Interested in **Natural Language Processing (NLP)** and **Spiking Neural Network(SNN)**.  
 - 📱 Experienced in mobile app development using **Flutter** & **React Native**.
 
 ### 🔗 Links  
