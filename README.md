@@ -33,17 +33,3 @@
 </div>
 
 <hr/>
-
-### 🌱 Contribution & Stats
-<div align="center">
-  <table style="border: none; border-collapse: collapse;">
-    <tr>
-      <td width="60%" align="center" style="border: none;">
-        <img src="https://grass-graph.moshimo.works/images/ksbong.png?background=none" alt="ksbong's Github chart" style="width: 100%;" />
-      </td>
-      <td width="40%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ksbong&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="ksbong's Stats" style="width: 100%;" />
-      </td>
-    </tr>
-  </table>
-</div>
